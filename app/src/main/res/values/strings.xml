@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="add">Add Audi</string>
+    <string name="remove_audi">Remove Audi</string>
+    <string name="add_all">Add All</string>
+    <string name="change_audi_skoda">Modify audi to skoda</string>
+    <string name="clear">Clear all</string>
+</resources>
