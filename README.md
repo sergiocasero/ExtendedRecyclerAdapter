@@ -106,9 +106,9 @@ Now, you are ready to use listeners, CRUD methods...
   myRecyclerAdapter.clear();
 ```
 
-# What to contribue
+# Contributing to the project
 
-Feel free to report me or add any useful feature to the library
+Feel free to report any issues or suggest new features.
 
 # License
 
