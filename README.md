@@ -1,3 +1,5 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ExtendedRecyclerAdapter-green.svg?style=true)](https://android-arsenal.com/details/1/3923)
+
 # ExtendedRecyclerAdapter
 Simple library for DRY recycler adapter
 
