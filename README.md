@@ -16,8 +16,6 @@ Please, learn about how recycler view adapter works before use this library! :)
 
 ## Import:
 
-Not avaible NOW... waiting for jcenter team...
-
 Add this to your build.gradle module:
 ```groovy
 dependencies{
